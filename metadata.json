@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Sayara - Integrated Fleet & Rental Platform",
+  "description": "A comprehensive car rental and fleet management system featuring customer booking flows, vendor dashboards, and AI-powered admin intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
